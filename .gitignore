@@ -1,3 +1,9 @@
+# data directories
+data/
+ssdata/
+ssdata.tgz
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

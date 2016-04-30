@@ -1,8 +1,10 @@
 # data directories
 data/
+conv_data/
 ssdata/
 ssdata.tgz
 *.csv
+*.p
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

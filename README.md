@@ -7,4 +7,4 @@ I created a Neural Network for our Advanced Machine Learning course, which inclu
 
 I also created Probabilistic Graphical Models to compare, including a simple Naive Bayes model for benchmarking, a Hidden Markov Model (HMM) and soon, a Continuous Random Field (CRF). 
 
-<html src='imgs/seq_structure.png'>
+<img src='imgs/seq_structure.png'>

@@ -3,7 +3,7 @@ csv_data/
 tensor_data/
 ssdata/
 proteins/
-
+dssp.data/
 
 # data file types
 .DS_Store

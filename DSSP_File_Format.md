@@ -1,5 +1,6 @@
 # DSSP File Format
-> Adapted from http://www.cmbi.ru.nl/dssp.html
+> Adapted from: http://www.cmbi.ru.nl/dssp.html<br>
+> Additional info from: http://swift.cmbi.ru.nl/gv/dssp/HTML/descrip.html
 
 ## General
 The header part of each DSSP file is self explaining, it contains some of the information copied over from the PDB file and there are some statistics gathered while calculating the secondary structure.

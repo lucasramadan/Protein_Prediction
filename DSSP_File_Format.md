@@ -72,3 +72,9 @@ The second half of the file contains the calculated secondary structure informat
 ### X-CA, Y-CA and Z-CA	
 * The Alpha Carbon coordinates
 * ![alpha carbon](imgs/alpha-carbon.gif)
+
+## Example
+> 
+| # | RESIDUE | AA | STRUCTURE | BP1 | BP2 | ACC | N-H-->O  | O-->H-N  | N-H-->O | O-->H-N  | TCO    | KAPPA | ALPHA | PHI   | PSI   | X-CA  | Y-CA | Z-CA |
+|---|---------|----|-----------|-----|-----|-----|----------|----------|---------|----------|--------|-------|-------|-------|-------|-------|------|------|
+| 2 | 17      | V  | B 3 + A   | 182 | 0A  | 8   | 180,-2.5 | 180,-1.9 | 1,-0.2  | 134,-0.1 | -0.776 | 360.0 | 8.1   | -84.5 | 125.5 | -14.7 | 34.4 | 34.8 |

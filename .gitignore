@@ -4,6 +4,8 @@ tensor_data/
 ssdata/
 proteins/
 dssp.data/
+dssp_csv/
+articles/
 
 # data file types
 .DS_Store
@@ -12,6 +14,7 @@ dssp.data/
 *.csv
 *.npy
 *.pkl
+*.dssp
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

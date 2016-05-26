@@ -5,6 +5,11 @@
 > Output: http://swift.cmbi.ru.nl/gv/dssp/DSSP_2.html <br>
 > More: http://www.cmbi.ru.nl/dssp.html <br>
 > Further: http://swift.cmbi.ru.nl/gv/dssp/HTML/descrip.html <br>
+> PDB: http://www.wwpdb.org/documentation/file-format-content/format33/sect5.html
+
+## Additional Info
+* Class grouping: helix (G, H and I), strand (E and B) and loop (S, T, and C, where C sometimes is represented also as blank space).
+* Label I ([pi helix](https://en.wikipedia.org/wiki/Pi_helix)) is very rare, due to an artifact of the original 1983 implementation of DSSP
 
 ## General
 The header part of each DSSP file is self explaining, it contains some of the information copied over from the PDB file and there are some statistics gathered while calculating the secondary structure.

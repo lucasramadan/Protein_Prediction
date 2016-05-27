@@ -26,3 +26,4 @@ Accurate secondary-structure prediction is a key element in the prediction of te
 | G, H, I | E, B   | S, T, C |
 
 * Label I ([pi helix](https://en.wikipedia.org/wiki/Pi_helix)) is very rare, due to an artifact of the original 1983 implementation of DSSP
+  * A quick solution to this is to replace structural sequences of 'HHTHH' with 'IIIII' as described  [here](http://swift.cmbi.ru.nl/gv/dssp/DSSP_2.html)
